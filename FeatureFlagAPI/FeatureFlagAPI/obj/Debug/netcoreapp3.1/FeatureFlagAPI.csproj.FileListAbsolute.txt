@@ -1,0 +1,6 @@
+C:\Users\yenug\Downloads\FeatureFlagAPI\FeatureFlagAPI\FeatureFlagAPI\obj\Debug\netcoreapp3.1\FeatureFlagAPI.csproj.AssemblyReference.cache
+C:\Users\yenug\Downloads\FeatureFlagAPI\FeatureFlagAPI\FeatureFlagAPI\obj\Debug\netcoreapp3.1\FeatureFlagAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yenug\Downloads\FeatureFlagAPI\FeatureFlagAPI\FeatureFlagAPI\obj\Debug\netcoreapp3.1\FeatureFlagAPI.AssemblyInfoInputs.cache
+C:\Users\yenug\Downloads\FeatureFlagAPI\FeatureFlagAPI\FeatureFlagAPI\obj\Debug\netcoreapp3.1\FeatureFlagAPI.AssemblyInfo.cs
+C:\Users\yenug\Downloads\FeatureFlagAPI\FeatureFlagAPI\FeatureFlagAPI\obj\Debug\netcoreapp3.1\FeatureFlagAPI.csproj.CoreCompileInputs.cache
+C:\Users\yenug\Downloads\FeatureFlagAPI\FeatureFlagAPI\FeatureFlagAPI\obj\Debug\netcoreapp3.1\FeatureFlagAPI.MvcApplicationPartsAssemblyInfo.cache
